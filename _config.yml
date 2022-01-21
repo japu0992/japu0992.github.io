@@ -1,5 +1,5 @@
 title: Jared Pursiano  # your name (or website title) here
-logo: "/images/Untitled.png?raw=true" # your photo (or logo) here
+logo: /images/Untitled.png?raw=true # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   As an undergrad I attended the University of Colorado Boulder and pursued a Bachelors Degree in Business Managment with an emphasis in Operations and Information management. 
   I was motivated to continue my education in data analytics back at CU pursuing a Master's degree in Business Analytics, with an emphasis in Security Analytics. 
