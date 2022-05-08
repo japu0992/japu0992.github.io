@@ -1,34 +1,38 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
-### Projects
-
-[CU Athletics Game Day Experience Analysis]
+### CU Athletics Game Day Experience Analysis
 <img src="images/project1.jpg?raw=true"/>
 
 ---
-[Formula One Database Development]
+
+### Formula One Database Development
 <img src="images/project2.jpg?raw=true"/>
 
 ---
-[Employee Turnover Analysis]
+
+### Employee Turnover Analysis
 <img src="images/project3.jpg?raw=true"/>
 
 ---
-[Product Quality Control Analysis]
+
+### Product Quality Control Analysis
 <img src="images/project4.jpg?raw=true"/>
 
 ---
-[Fraudalant Transaction Analysis]
+
+### Fraudalant Transaction Analysis
 <img src="images/project5.jpg?raw=true"/>
 
 ---
-[Movie Critic Reviews Analysis]
+
+### Movie Critic Reviews Analysis
 <img src="images/project6.jpg?raw=true"/>
 
 ---
-[Nike Advertising Data Analysis]
+
+### Nike Advertising Data Analysis 
 <img src="images/project7.jpg?raw=true"/>
 
 <p style="font-size:11px">
