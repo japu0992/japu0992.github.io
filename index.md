@@ -19,7 +19,7 @@ Develop a relational database with Formula 1 data and created visualizations of 
 ### Employee Turnover Analysis
 Determined which factors contributed most to voluntary employee termination with a Fortune 500 Technology company   
 
-<img src="images/Slide3.jpeg?raw=true"/>
+<img src="images/Slide3.jpeg?raw=true" width="502"/>
 
 ---
 
