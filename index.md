@@ -5,7 +5,7 @@
 ### CU Athletics Game Day Experience Analysis
 Determine most influential factors in gameday experience for fans based on fan survey data with CU Athletics Football 
 
-<img src="images/slide1.jpg" height="284"/> 
+<img src="images/slide1.jpg" height="281"/> 
 
 ---
 
