@@ -49,4 +49,4 @@ Used Facebook prophet and other models for analysis to compare Nike search trend
 
 <img src="images/slide7.jpg" height="282"/> 
 
-<p style="font-size:11px">
+<p style="font-size:11px"> 
