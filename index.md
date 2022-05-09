@@ -5,7 +5,7 @@
 ### CU Athletics Game Day Experience Analysis
 Determine most influential factors in gameday experience for fans based on fan survey data with CU Athletics Football 
 
-<img src="images/Slide1.jpeg?raw=true"/>
+<img src="images/Slide1.jpeg?raw=true" width="502"/>
 
 ---
 
@@ -19,7 +19,7 @@ Develop a relational database with Formula 1 data and created visualizations of 
 ### Employee Turnover Analysis
 Determined which factors contributed most to voluntary employee termination with a Fortune 500 Technology company   
 
-<img src="images/Slide3.jpeg?raw=true" width="502"/>
+<img src="images/Slide3.jpeg?raw=true" />
 
 ---
 
