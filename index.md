@@ -30,7 +30,7 @@ Determined cause and impact of why shades and shutters were having to be returne
 
 ---
 
-### Fraudalant Transaction Analysis
+### Fraudulent Transaction Analysis
 Used PySpark programming to determine fraudulent transactions and which features are the most common red flags in fraudulent transactions
 
 <img src="images/slide5.jpg" /> 
